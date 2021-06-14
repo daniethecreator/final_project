@@ -1,4 +1,7 @@
 # project-one
+## Presentation Content:
+UCB_Bootcamp_Final.pptx
+
 ## Communication Protocols:
 * Slack Channel with all three group members
 * Using class time to do majority of weekly work
@@ -7,3 +10,5 @@
 * daniethecreator - machine learning
 * stevenpy217 - data
 * ssyed21 - repository/data visualization
+
+
