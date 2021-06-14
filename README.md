@@ -1,6 +1,6 @@
 # project-one
 ## Presentation Content:
-[I'm an inline-style link](https://github.com/daniethecreator/project-one/blob/418eb36d8abb7f57e4b6eb3602dff7167cbc125d/UCB_Bootcamp_Final.pptx)
+[Link to Presentation Content](https://github.com/daniethecreator/project-one/blob/418eb36d8abb7f57e4b6eb3602dff7167cbc125d/UCB_Bootcamp_Final.pptx)
 
 ## Communication Protocols:
 * Slack Channel with all three group members
